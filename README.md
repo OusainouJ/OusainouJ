@@ -1,26 +1,59 @@
-## Hi, i'm Ousainou 👋
+<div align="center">
+  
+<h1>👋 Hi, Welcome to my GitHub!</h1>
 
-I'm an experienced Senior Business Analyst with over 5 years of expertise in driving business transformation through agile methodologies, requirements analysis, and API integrations. I’m passionate about improving customer journeys, optimizing user experiences, and fostering collaboration across cross-functional teams.
-***
-## Currently, I'm embarking on an exciting DevOps journey 🚀, actively building my skills in.
+</div>
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)  
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)  
-[![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)<br>
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-***
-## My professional background includes experience in:
+<p align="center">
+I'm a tech enthusiast passionate about all things Cloud, DevOps, and Data Analysis.
+</p>
 
-[![Agile](https://img.shields.io/badge/Agile-0288D1?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/) 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)](https://aws.amazon.com/) 
-[![API](https://img.shields.io/badge/API-02569B?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)  
-[![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/)
-[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)  
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-***
-## Connect with me: 
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ousainou-joof-63420515a/)
+<h2>🧰 Skills & Technologies</h2>
 
+<div align="center">
+
+<!-- DevOps Skills -->
+![DevOps](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,bash,linux)
+
+<!-- Tools -->
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+</div>
+
+<br>
+
+<h2>💼 My Professional Background</h2>
+
+<div align="center">
+
+<!-- BA & Agile Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" alt="Jira" />
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-logo.svg" width="40" alt="Confluence" />
+
+</div>
+
+
+<br>
+
+<h2>🔗 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ousainou-joof-63420515a/">
+    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/badges/social/linkedin/linkedin-original.svg" width="60" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+
+<h2>📈 GitHub Stats</h2>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ousainoujoof&show_icons=true&theme=default)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=ousainoujoof&style=flat-square)
+
+</div>
