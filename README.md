@@ -31,7 +31,7 @@ I'm a tech enthusiast passionate about all things Cloud, DevOps, and Data Analys
 <!-- BA & Agile Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" alt="Jira" />
-<img src="https://cdn.worldvectorlogo.com/logos/confluence-logo.svg" width="40" alt="Confluence" />
+<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="40" alt="Confluence" />
 
 </div>
 
@@ -42,8 +42,9 @@ I'm a tech enthusiast passionate about all things Cloud, DevOps, and Data Analys
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ousainou-joof-63420515a/">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/badges/social/linkedin/linkedin-original.svg" width="60" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+</a>
+
 </div>
 
 <br>
@@ -52,8 +53,9 @@ I'm a tech enthusiast passionate about all things Cloud, DevOps, and Data Analys
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ousainoujoof&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OusainouJ&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=ousainoujoof&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=OusainouJ&style=flat-square)
 
 </div>
+
