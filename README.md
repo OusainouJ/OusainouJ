@@ -1,61 +1,47 @@
 <div align="center">
-  
-<h1>👋 Hi, Welcome to my GitHub!</h1>
 
-</div>
+<h1>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="40" />
+  Hi, Welcome to my GitHub!
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="40" />
+</h1>
 
-<p align="center">
-I'm a tech enthusiast passionate about all things Cloud, DevOps, and Data Analysis.
+<p>
+  I'm a tech enthusiast passionate about all things <strong>Cloud</strong>, <strong>DevOps</strong>, and <strong>Data Analysis</strong>.
 </p>
 
-<br>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Cloud+%7C+DevOps+%7C+Data+Analysis" alt="Typing SVG" />
+</p>
 
-<h2>🧰 Skills & Technologies</h2>
+## 🧰 Skills & Technologies
 
 <div align="center">
-
-<!-- DevOps Skills -->
-![DevOps](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,bash,linux)
-
-<!-- Tools -->
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,bash,linux" alt="DevOps Skills" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </div>
 
-<br>
-
-<h2>💼 My Professional Background</h2>
+## 💼 My Professional Background
 
 <div align="center">
-
-<!-- BA & Agile Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" alt="Jira" />
-<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="40" alt="Confluence" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" alt="Jira" />
+  <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="40" alt="Confluence" />
 </div>
 
-
-<br>
-
-<h2>🔗 Connect With Me</h2>
+## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ousainou-joof-63420515a/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/ousainou-joof-63420515a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
-<br>
-
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OusainouJ&show_icons=true&count_private=true&include_all_commits=true&theme=default)
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=OusainouJ&style=flat-square)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=OusainouJ&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=OusainouJ&style=flat-square" alt="Profile Views" />
 </div>
 
